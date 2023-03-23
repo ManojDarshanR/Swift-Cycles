@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Swift Cyclz</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="map_key" translatable="false">AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo
+</string>
+
+    <string-array name="State">
+        <item>TamilNadu</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Hercules Trail fire HT Turbodrive 26T </item>
+        <item>Hercules Trail fire RF NV 26T</item>
+        <item>Hercules Streetcat Pro 26T</item>
+        <item>Hercules Streetcat Pro 26T Trooper Grey</item>
+        <item>Hercules Trailfire RF DBF 26T Forest Green</item>
+        <item>Hercules Trailfire RF 26T Ivory White</item>
+        <item>Hercules Trailfire HT 26T Ivory White</item>
+        <item>Hercules Trailfire HT 26T Matt Black</item>
+        <item>Hercules Deadpool 29T Matt Black</item>
+        <item>Hercules Streetcat Pro IC 24T Acid Green</item>
+        <item>Hercules Streetcat Pro IC 24T Victor Blue</item>
+        <item>Hercules Streetcat Pro DX2 24T Acid Green</item>
+        <item>Hercules FX100 DX2 26T Matt Black</item>
+        <item>Hercules Streetcat Pro DX1 20T Neon Red</item>
+        <item>Hercules Kombat ZX 26T Matt Black</item>
+        <item>Hercules Kombat ZX 26T Victor Blue</item>
+        <item>Hercules Kombat ZX 24T Matt Black</item>
+        <item>Hercules Kombat ZX 24T Victor Blue </item>
+        <item>Hercules Kombat RF 26T Black</item>
+        <item>Hercules Kombat RF 26T Smart Red</item>
+        <item>Hercules Kombat RF 24T Black</item>
+        <item>Hercules Kombat RF 24T Smart Red</item>
+        <item>Hercules Deadpool HT DX2 27.5T Neon Orange</item>
+        <item>Hercules Flarecity 26T Acid Green</item>
+        <item>Hercules Flarecity 26T Matte Black</item>
+        <item>Hercules BlackHunter ZX DX2 26T Neon Red</item>
+        <item>Hercules Top Speed FX200 26T Acid Green</item>
+        <item>Hercules Streetcat Pro FX 20T Matt Black With Blue</item>
+        <item>Hercules Streetcat Pro FX 20T Matt Black With Blue</item>
+        <item>Hercules Top Speed-FX200 DX2 26T Neon Green</item>
+        <item>Hercules Top Speed FX100 26T Neon Orange Rim</item>
+        <item>Hercules Deadpool HT 27.5T Matte Black</item>
+        <item>Hercules Deadpool HT 27.5T Neon Green</item>
+        <item>Hercules Flare RF 26T Ivory White</item>
+        <item>Hercules Black Hunter ZX 26T Neon red</item>
+        <item>Hercules Black Hunter ZX 26T Trooper Grey</item>
+        <item>Hercules Black Hunter ZX 24T Neon red</item>
+        <item>Hercules Black Hunter ZX 24T Trooper Grey</item>
+        <item>Hercules Top Gear Black Hunter ZX 26T Neon Red</item>
+        <item>Hercules Top Gear Black Hunter ZX 26T Trooper Grey</item>
+    </string-array>
+</resources>
